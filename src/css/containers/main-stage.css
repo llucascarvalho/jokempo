@@ -4,6 +4,9 @@
     align-items: center;
     justify-content: center;
     height: 80vh;
+    background-image: url(/src/404.svg);
+    background-repeat: no-repeat;
+    background-position: center;
 }
 
 .main-stage>.simple-title {
@@ -25,8 +28,4 @@
 
 .main-stage>.simple-action {
     font-size: 15px;
-}
-
-.main-stage>.img {
-    height: 80vh;
 }
